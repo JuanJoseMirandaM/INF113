@@ -1,0 +1,22 @@
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table{
+	width: 30%;
+	background-color: #ED9090;
+}
+
+th{
+	text-align: left;
+	padding: 20px;
+}
+
+td:hover{
+	background-color: yellow;
+}
+
+tr:hover{
+	background-color: white;
+}
